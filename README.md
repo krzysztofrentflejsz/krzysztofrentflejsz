@@ -6,8 +6,8 @@ I'm **Krzysztof (Chris) Rentflejsz**, a data scientist with a background in inve
 - MSc Data Science and Business Analytics @ Bocconi University ('23)
 - MSc exchange: MBA courses @ KAIST ('23)
 - BSc Philosophy, Politics and Economics (PPE) with major in Economics @ University of Warwick ('21)
-- BSc exchange: various Economics and Politics @ Univerity of Vienna ('20)
-- BSc exchange: ML, and various Economics and Politics @ Bocconi University ('20)
+- BSc exchange: various Economics and Politics courses @ Univerity of Vienna ('20)
+- BSc exchange: ML and various Economics and Politics courses @ Bocconi University ('20)
 
 ### 👨‍💻 Current Projects
 - **Market Price Estimation of Finnish Used EVs (Cardino):** Developing models for optimal pricing.
