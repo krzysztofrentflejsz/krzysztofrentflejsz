@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Krzysztof (Chris) Rentflejsz**, a data scientist with a background in investment banking ([Rothschild & Co](https://www.rothschildandco.com)) and high-growth startups ([Razor Group](https://razor.group) and [Cardino](https://cardino.com)). I’m passionate about projects at the intersection of data science and business, combining my skills to drive value. Currently, I’m working on pricing models for the Finnish car market and self-study projects to deepen my expertise.
+I'm **Krzysztof (Chris) Rentflejsz**, a data scientist with a background in investment banking ([Rothschild & Co](https://www.rothschildandco.com)) and high-growth startups ([Razor Group](https://razor.group) and [Cardino](https://cardino.com)). I really enjoy projects at the intersection of data science and business, combining my skills to drive value. Currently, I’m working on pricing models for the Finnish car market and self-study projects to deepen my expertise.
 
 ### 📚 Education
 - MSc Data Science and Business Analytics @ Bocconi University ('23)
@@ -11,21 +11,20 @@ I'm **Krzysztof (Chris) Rentflejsz**, a data scientist with a background in inve
 
 ### 👨‍💻 Current Projects
 - **Market Price Estimation of Finnish Used EVs (Cardino):** Developing models for optimal pricing.
-- **Historical Stock Price Prediction (Self-study):** Building predictive models for stock analysis.
-- **Chatbot with Transformers (Self-study):** Exploring NLP using transformer models.
+- **[Kaggle competition: House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview) (Self-study):** Building a predictive model for sale price estimation.
 
 ### 🔍 Past Projects
 - **Recommendation System for Car Dealers (Cardino):** Sales tool for internal SDRs.
 - **Automated Pricing of B2B Stock (Cardino):** Automated pricing for B2B car segments.
 - **Acquisition Target Detection Tool (Stability Capital):** Identified acquisition opportunities.
-- **Synthetic Data (GenAI) Impact on NLP Models (Bocconi - research):** Research on synthetic data's effect on the performance of suicide ideation detection models.
+- **Effects of synthetic (GenAI) data on the predictive power of suicide detection NLP models (Bocconi - research):** Research on synthetic data's effect on the performance of suicide ideation detection models.
 - **Redefining Customer Personas (Bocconi - Wesper Inc.):** Conducted sentiment analysis, clustering, and A/B testing.
 - **Customer Clustering for Revenue Streams (Bocconi - H-Farm):** New revenue opportunities via customer segmentation.
 
 ### 🧠 Interests
 - NLP Applications
 - Mental Health
-- Financial Data Science
+- Finance (primarily search funds) 
 
 ### 🛠️ Skills
 - **Programming Languages:** Python, SQL, STATA, Excel VBA
